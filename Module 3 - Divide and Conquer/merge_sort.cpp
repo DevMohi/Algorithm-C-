@@ -26,7 +26,7 @@ void merge(int l, int r, int mid)
 	{
 		if(L[lp] <= R[rp])
 		{
-			nums[i] = L[lp];
+			nums[i] = L[rp];
 			lp++;
 		}
 		else
