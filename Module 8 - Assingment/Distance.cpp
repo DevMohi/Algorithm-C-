@@ -59,3 +59,7 @@ int main()
 
     return 0;
 }
+
+//  BFS (Breadth-First Search) is particularly suited for finding the shortest path in an unweighted graph. This is because BFS explores all nodes at the present "depth" (or level) before moving on to nodes at the next depth level.
+
+// In simpler terms, BFS guarantees that when we first reach a node, we have found the shortest path from the source to that node
