@@ -1,0 +1,7 @@
+https://cses.fi/problemset/task/1666/
+
+Message route - https://cses.fi/problemset/task/1667
+
+Counting rooms - https://cses.fi/problemset/task/1192
+
+Maximum knight moves - https://www.spoj.com/problems/NAKANJ/
