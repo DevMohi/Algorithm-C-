@@ -20,7 +20,7 @@ void merge(int a[], int l,int m , int r){
         k++;
     }
 
-    //Take two pointers
+    //Take two pointers S
     int i =0, j =0;
     int cur = l; 
 
