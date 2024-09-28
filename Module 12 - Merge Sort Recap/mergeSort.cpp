@@ -84,4 +84,4 @@ int main(){
 }
 
 // 10 
-// 15 4 3 9 2 8 10 12 6 1   LAST BREAK  2 i swear
+// 15 4 3 9 2 8 10 12 6 1   LAST BREAK  2 i swear sad
