@@ -21,7 +21,7 @@ int main(){
     for(int i=0;i<n;i++)
     {
         cin>>a[i];
-    }    
+    }    //
 
     divide(a,0,n-1);
     return 0;
