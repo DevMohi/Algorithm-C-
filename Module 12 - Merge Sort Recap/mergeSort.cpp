@@ -54,9 +54,9 @@ void mergeSort(int a[], int l, int r){
     if(l<r){
         mergeSort(a,l,mid);
         mergeSort(a,mid+1,r);
-        // cout<<"This";
+        // cout<<"This"; //break
         // cout<<endl;
-        // for(int i=l; i<=mid; i++){
+        // for(int i=l; i<=mid; i++){ 
         //     cout<<a[i]<<" ";
         // }
         // cout<<endl; 
