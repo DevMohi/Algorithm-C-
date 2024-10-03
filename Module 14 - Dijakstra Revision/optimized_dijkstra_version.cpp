@@ -29,6 +29,7 @@ void dijkstra(int s)
             pair<int, int> child = v[parentNode][i];
             int childNode = child.first;
             int childCost = child.second;
+            //Priotity cost + weight 
             if (parentCost + childCost < dis[childNode])
             {
                 dis[childNode] = parentCost + childCost;

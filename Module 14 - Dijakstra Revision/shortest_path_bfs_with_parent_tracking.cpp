@@ -44,7 +44,7 @@ int main(){
     // for(int i=1; i<=n; i++){
     //     cout<<"Node "<<i<<": "<<parent[i]<<endl;
     // }
-
+    //
     int d;
     cin>>d;
 
