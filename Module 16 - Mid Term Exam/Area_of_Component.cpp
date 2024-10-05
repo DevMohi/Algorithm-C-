@@ -20,7 +20,7 @@ int cnt;
 void dfs(int si, int sj){
     vis[si][sj] = true;
     cnt++; 
-
+    //
     for(int i=0; i<4; i++){
         pair<int, int> p = path[i];
         int ci = si + p.first;
