@@ -49,7 +49,7 @@ int main(){
         }
     }
 
-    //Arekbat check
+    //Arekbar check to detect cycle 
     bool cycle = false; 
 
     for(int j=0; j<v.size();j++){
