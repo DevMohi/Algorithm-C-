@@ -47,7 +47,7 @@ int main()
     int n, e;
     cin >> n >> e;
     dsu_set(n);
-    //Node 5 ta hoile component 5 ta 
+    //Node 5 ta hoile component 5 ta g
     int cmp = n;
     while (e--)
     {
