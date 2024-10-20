@@ -64,7 +64,7 @@ int main()
         }
         cout<<cmp<<" "<<mx<<endl;
     }
-    // cout << dsu_find(6); ss
+    // cout << dsu_find(6); ss last
     return 0;
 }
 
